@@ -1,12 +1,29 @@
-## Hi there 👋
+# 🪴 ResQ-Pot Organization
 
-<!--
+## 📖 About Us
+**ResQ-Pot**는 복잡한 재난 정보를 해석하여 사용자에게 **단 하나의 핵심 행동**을 제시하는 하드웨어 연동형 재난 대비 플랫폼입니다.  
+사용자의 위치와 상황에 최적화된 안전 가이드를 제공하여 가장 위험한 순간, 가장 가까운 곳에서 사용자를 지키는 것을 목표로 합니다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🚀 Core Features
+- **사용자 맞춤형 재난 정보**: 위치, 상태, 날씨를 종합한 개인화된 특보 및 행동 요령 제공  
+- **반려 화분 하드웨어 연동**: 직관적인 위험도 전달 + 정서적 안정감 제공
+- **위젯 지원**: 앱 접속 없이도 홈 화면에서 핵심 정보 확인 가능  
+- **실시간 재난 콘텐츠**: 뉴스, 영상, 커뮤니티 등 외부 정보 큐레이션  
+- **대피소 지도**: 주변 대피소 및 주요 시설 정보 제공, 오프라인 지원  
+
+
+
+## 👥 Team
+- **김은혜 (Eunhye Kim)** – Team Lead & Frontend Developer
+- **문근 ()** – Backend Developer 
+- **이가희 ()** – Backend Developer 
+
+
+
+## 📡 Community
+- Slack: (추후 링크 추가 예정)  
+- Email: (추후 메일 추가 예정)  
+
+
