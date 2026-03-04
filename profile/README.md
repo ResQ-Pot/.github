@@ -15,7 +15,7 @@
 
 ## 👥 Team
 - **김은혜 (Eunhye Kim)** – Team Lead & Frontend Developer
-- **문근 ()** – Backend Developer 
+- **문근 (Geun Moon)** – Backend Developer 
 - **이가희 ()** – Backend Developer 
 
 
